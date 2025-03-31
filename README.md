@@ -1,12 +1,13 @@
+## Hi I'm Jyoti Ranjan Biswal 👋
+
 🚀 **Passionate Web Developer | Tech Enthusiast | Mentor** 🚀
 
 With nearly 4 years of hands-on experience in building interactive web apps and crafting seamless user experiences, I thrive on pushing the boundaries of what's possible with cutting-edge technologies. From mentoring talented developers (junior & senior alike) to optimizing UI/UX design, my focus is always on improving scalability, efficiency, and user satisfaction.
 
 🔧 **What I Do:**
 - Craft intuitive, performance-driven web applications 💻
-- Boost user satisfaction by 50% 🏆
-- Enhance product efficiency by 80% 🚀
-- Streamline client-side scripts with a 25% improvement ⚡
+- Boost user satisfaction by making user frinendly and perfomant webapps. 🏆
+- Enhance product efficiency 🚀
 
 💡 Whether it's coding, collaborating, or mentoring, I aim to bring innovation, creativity, and a dash of fun to every project!
 
