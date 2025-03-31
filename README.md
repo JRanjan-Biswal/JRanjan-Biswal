@@ -12,10 +12,6 @@ With nearly 4 years of hands-on experience in building interactive web apps and 
 
 Let's connect, collaborate, and build something amazing! 🌟
 
----
-
-Let me know if you'd like to tweak it further!
-
 <!-- ## Hi there 👋
 
 **JRanjan-Biswal/JRanjan-Biswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
