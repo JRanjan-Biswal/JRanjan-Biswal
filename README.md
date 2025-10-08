@@ -2,7 +2,7 @@
 
 🚀 **Passionate Web Developer | Tech Enthusiast | Learner** 🚀
 
-With nearly 4 years of hands-on experience in building interactive web apps and crafting seamless user experiences, I thrive on pushing the boundaries of what's possible with cutting-edge technologies. From mentoring talented developers (junior & senior alike) to optimizing UI/UX design, my focus is always on improving scalability, efficiency, and user satisfaction.
+With nearly 4.6 years of hands-on experience in building interactive web apps and crafting seamless user experiences, I thrive on pushing the boundaries of what's possible with cutting-edge technologies. From mentoring talented developers (junior & senior alike) to optimizing UI/UX design, my focus is always on improving scalability, efficiency, and user satisfaction.
 
 🔧 **What I Do:**
 - Craft intuitive, performance-driven web applications 💻
