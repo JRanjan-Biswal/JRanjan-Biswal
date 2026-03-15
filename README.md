@@ -6,12 +6,6 @@ I specialize in the design of high-availability infrastructure and automated ope
 
 I engineer for measurable performance, eliminating architectural debt through advanced state management and modular component design.
 
-### 🔭 Current Operations
-- **Stealth Startup:** Architecting zero-to-one high-availability infrastructure and establishing technical governance.
-- **TechScope AI:** Building a local AI-powered technical audit tool (Python, Ollama, BeautifulSoup) for 30-day Core Web Vitals optimization.
-- **Nexo:** Developing an AI-driven personal CRM with complex phone-to-LinkedIn merge algorithms and WhatsApp API integration.
-- **Computer Vision Research:** Refining real-time object detection systems utilizing PyTorch and Mask R-CNN.
-
 ### ⚙️ Core Engineering Stack
 - **Architecture & Infra:** AWS, Docker, CI/CD (GitHub Actions), Microservices, Redis
 - **AI & Machine Learning:** PyTorch, Generative AI, OpenAI, OpenCV, TensorFlow
