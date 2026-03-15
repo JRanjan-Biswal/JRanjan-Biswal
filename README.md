@@ -1,30 +1,28 @@
-## Hi I'm Jyoti Ranjan Biswal 👋
+## Hi, I'm Jyoti Ranjan Biswal 👋
 
-🚀 **Passionate Web Developer | Tech Enthusiast | Learner** 🚀
+**Systems Architect | Founding Engineer | AI & Infrastructure**
 
-With nearly 5 years of hands-on experience in building interactive web apps and crafting seamless user experiences, I thrive on pushing the boundaries of what's possible with cutting-edge technologies. From mentoring talented developers (junior & senior alike) to optimizing UI/UX design, my focus is always on improving scalability, efficiency, and user satisfaction.
+I specialize in the design of high-availability infrastructure and automated operational workflows. My focus is on converting complex, multi-variable business requirements into lean, scalable technical architectures that prioritize data integrity and systemic transparency. 
 
-🔧 **What I Do:**
-- Craft intuitive, performance-driven web applications 💻
-- Boost user satisfaction by making user frinendly and perfomant webapps. 🏆
-- Enhance product efficiency 🚀
+I engineer for measurable performance, eliminating architectural debt through advanced state management and modular component design.
 
-💡 Whether it's coding, collaborating, or mentoring, I aim to bring innovation, creativity, and a dash of fun to every project!
+### 🔭 Current Operations
+- **Stealth Startup:** Architecting zero-to-one high-availability infrastructure and establishing technical governance.
+- **TechScope AI:** Building a local AI-powered technical audit tool (Python, Ollama, BeautifulSoup) for 30-day Core Web Vitals optimization.
+- **Nexo:** Developing an AI-driven personal CRM with complex phone-to-LinkedIn merge algorithms and WhatsApp API integration.
+- **Computer Vision Research:** Refining real-time object detection systems utilizing PyTorch and Mask R-CNN.
 
-Let's connect, collaborate, and build something amazing! 🌟
+### ⚙️ Core Engineering Stack
+- **Architecture & Infra:** AWS, Docker, CI/CD (GitHub Actions), Microservices, Redis
+- **AI & Machine Learning:** PyTorch, Generative AI, OpenAI, OpenCV, TensorFlow
+- **Full-Stack & SSR:** Next.js, Node.js, TypeScript, Express.js, PostgreSQL, MongoDB
+- **State Management:** Zustand, Redux, Jotai, Context API
 
-<!-- ## Hi there 👋
+### 📈 Measurable Impact
+- **80%** acceleration in feature delivery cycles via standardized component architecture.
+- **60%** reduction in time-to-production through automated deployment pipelines.
+- **50%** decrease in logic-related regressions using advanced state patterns.
 
-**JRanjan-Biswal/JRanjan-Biswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect & Collaborate
+- **LinkedIn:** [linkedin.com/in/jyoti-ranjan-biswal](https://linkedin.com/in/jyoti-ranjan-biswal/)
+- **Portfolio:** [jyoti-ranjan-biswal.vercel.app](https://jyoti-ranjan-biswal.vercel.app/)
